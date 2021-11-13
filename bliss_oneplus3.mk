@@ -31,8 +31,8 @@ PRODUCT_BRAND := OnePlus
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 # Fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ3A.210905.001 7511028 release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RD1A.201105.003/6886239:user/release-keys
+BUILD_DESCRIPTION := redfin-user 11 RD1A.201105.003 6886239 release-keys
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
